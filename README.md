@@ -12,10 +12,6 @@ This Repository containes code to do sentiment analysis for different terms rela
 - Kritischer Punkt: reicht Akademic Product Track
 
 ## TODOS
-- Colab
-    - fehler beheben
-    - "Dokumentieren"
-- Gruppierung nach Country statt Sprache
 - Limitierungen vorsehen: 1000 Most popular?
     - Versuch: 100 most popular pro tag für 1 Jahr runterladen.
 - Recherchieren: Was ist SoTA: Gruppieren und dann Sentiment berechnen, oder Sentiment Berehnen und Scores dann aggregieren.
@@ -33,3 +29,6 @@ This Repository containes code to do sentiment analysis for different terms rela
 - Gruppierung nach verschiedener "Granularität" ==> Tag, Monat, Jahr
 - Grafiken verschönert
     - Matplotlib tunen (config von Patrick)
+- Colab
+    - 1 Fehler behoben
+- Gruppierung nach Country statt Sprache
