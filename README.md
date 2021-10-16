@@ -12,6 +12,14 @@ This Repository containes code to do sentiment analysis for different terms rela
 - Kritischer Punkt: reicht Akademic Product Track
 
 ## TODOS
+- weitere begriffe probieren
+    - 3 Monate artificial intelligence
+    - 12 monate climate change
+    - 1 Jahr "Ampel-Koalition"
+    - möglichst lange cannabis-legalisierung
+    - facebook
+    - corona
+
 - Limitierungen vorsehen: 1000 Most popular?
     - Versuch: 100 most popular pro tag für 1 Jahr runterladen.
 - Recherchieren: Was ist SoTA: Gruppieren und dann Sentiment berechnen, oder Sentiment Berehnen und Scores dann aggregieren.
@@ -32,3 +40,9 @@ This Repository containes code to do sentiment analysis for different terms rela
 - Colab
     - 1 Fehler behoben
 - Gruppierung nach Country statt Sprache
+- Suchbegriff in Diagrammüberschrift
+- time.sleep vor twitter Anfrage
+- nachforschung trend kaputt (pandasversion?)
+- plt savefig
+- CSV export
+- einzelne tweets rausfiltern und anzeigen
